@@ -1,0 +1,5 @@
+allowedOrigins: ""
+
+serverSentEvents:
+  tickInterval: 1250 # the interval in ms at which positions are updated
+  allowedOrigins: ""

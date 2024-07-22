@@ -1,0 +1,9 @@
+@import "leaflet/dist/leaflet.css";
+
+body, #root {
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
